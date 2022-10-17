@@ -1,9 +1,10 @@
 #include <stdio.h>
  /**
-  * main - Prints the alphabet
+  * main - Prints the captal and small alphabet
   *
   * Return: Always 0 (Success)
   */
+
 int main(void)
 {
 	char alpa[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -15,4 +16,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}		
+}	
