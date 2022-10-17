@@ -1,8 +1,8 @@
 #include <stdio.h>
  /**
-  * main - Prints the captal and small alphabet
+  * main-0-no error, non zero value if error
   *
-  * Return: Always 0 (Success)
+  * Return:0-no error,non zero value if error.
   */
 
 int main(void)
@@ -16,4 +16,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
+}
