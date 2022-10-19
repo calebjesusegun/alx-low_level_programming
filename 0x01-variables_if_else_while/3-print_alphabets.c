@@ -3,7 +3,7 @@
  /**
   * main - Prints the alphabet small and Big.
   *
-  * Description:Prints the alphabet
+  * Description: Prints the alphabet.
   *
   * Return: Always 0 (Success)
   */
