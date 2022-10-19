@@ -1,6 +1,6 @@
 #include <stdio.h>
  /**
-  * main - No error, non zero value if error
+  * main - Prints the alphabet.
   *
   * Return: Always 0 (Success).
   */
