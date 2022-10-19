@@ -1,8 +1,8 @@
 #include <stdio.h>
  /**
-  * main-0-no error, non zero value if error
+  * main - No error, non zero value if error
   *
-  * Return:0-no error,non zero value if error.
+  * Return: Always 0 (Success).
   */
 
 int main(void)
