@@ -9,14 +9,16 @@
  **/
 int main(void)
 {
-	char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	int i;
+		int i;
 
-	for (i = 0; i < 52; i++)
-	{
-		putchar(alp[i]);
-	}
-	putchar('\n');
-	return (0);
+			for (i = 97; i < 123; i++)
+					{
+								if (i != 101 && i != 113)
+											{
+															putchar(i);
+																	}
+									}
+				putchar('\n');
+					return (0);
 }
 
