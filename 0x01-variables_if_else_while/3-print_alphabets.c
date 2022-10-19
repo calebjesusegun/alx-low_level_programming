@@ -1,13 +1,12 @@
 #include <stdio.h>
 
  /**
-  * main-Prints the alphabet small and Big
+  * main - Prints the alphabet small and Big.
   *
-  * Decription:Prints the alphabet
+  * Description:Prints the alphabet
   *
-  * Return:Always 0 (Success)
+  * Return: Always 0 (Success)
   */
-
 int main(void)
 {
 	char alpa[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
